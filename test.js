@@ -8,6 +8,10 @@ trolling in canada
 
 canada has snow
 
+
 hawaii has sun
 
 
+
+
+India has rain
