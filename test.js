@@ -1,7 +1,9 @@
 TEST FOR BOTH
-<<<<<<< HEAD
+
 
 Oh Canada...
 
 trolling in canada
+
+canada has snow
 
